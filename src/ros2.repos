@@ -4,5 +4,5 @@
 repositories:
   demos:
     type: git
-    url: https://github.com/ROS2-Workshop/demos.git
+    url: https://github.com/ROS2-Workshop/ros2-demos.git
     version: humble
